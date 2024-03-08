@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/base-user-management/.vs
+/base-user-management/base-user-management/bin/Debug/net8.0
+/base-user-management/base-user-management/obj
+/base-user-management/base-user-management/appsettings.Development.json
